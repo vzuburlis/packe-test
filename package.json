@@ -1,0 +1,5 @@
+"repository" : {
+    "type" : "git",
+    "url": "ssh://git@github.com/vzuburlis/bootstrap-blog.git",
+    "directory": "packages/name"
+  }
